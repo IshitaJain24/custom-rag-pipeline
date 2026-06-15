@@ -1,0 +1,5 @@
+A vector database is a specialized database that stores and indexes "vector embeddings"-numerical representations of unstructured data like text or images.
+How It Works:
+1. Vectorization
+2. Indexing
+3. Querying
