@@ -1,6 +1,6 @@
 # 💻 Private RAG Assistant
 
-**Live Demo:** [Insert Live App Link Here]
+**Live Demo:** [https://custom-rag-pipeline-mwmvy5sncwei5vaxzozqkh.streamlit.app/]
 
 This project is a custom Retrieval-Augmented Generation (RAG) pipeline built to answer queries based strictly on a private dataset. It utilizes an in-memory vector database and modern embedding models to ensure the AI's responses are highly contextual and free from hallucinations.
 
